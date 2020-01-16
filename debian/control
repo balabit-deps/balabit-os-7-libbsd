@@ -1,7 +1,8 @@
 Source: libbsd
 Priority: optional
 Section: libs
-Maintainer: Guillem Jover <guillem@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Guillem Jover <guillem@debian.org>
 Vcs-Browser: https://git.hadrons.org/cgit/debian/pkgs/libbsd.git
 Vcs-Git: https://git.hadrons.org/git/debian/pkgs/libbsd.git
 Homepage: https://libbsd.freedesktop.org/
